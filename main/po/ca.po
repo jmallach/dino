@@ -79,7 +79,7 @@ msgstr "Ha fallat la transferència del fitxer"
 
 #: main/src/ui/conversation_content_view/chat_state_populator.vala:110
 #, c-format
-msgid "%s, %s and %i others are typing"
+msgid "%s, %s and %i others are typing…"
 msgstr "%s, %s i %i altres estan escrivint…"
 
 #: main/src/ui/conversation_content_view/chat_state_populator.vala:112
